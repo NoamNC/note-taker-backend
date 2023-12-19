@@ -57,20 +57,20 @@ The server will be running at http://localhost:5001 (or the specified PORT).
 
 
 ## Endpoints
-Create a Note:
 
+*Create a Note:
 POST /notes/create
-Get All Notes:
 
+*Get All Notes:
 GET /notes/all
-Get a Note by ID:
 
+*Get a Note by ID:
 GET /notes/:id
-Edit a Note:
 
+*Edit a Note:
 PUT /notes/:id
-Delete a Note:
 
+*Delete a Note:
 DELETE /notes/:id
 
 
