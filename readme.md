@@ -9,6 +9,7 @@ an api for the note taker app
   - [Installation](#installation)
 - [Usage](#usage)
 - [Endpoints](#endpoints)
+- [to do](#to do)
 
 
 ## Getting Started
@@ -74,3 +75,17 @@ PUT /notes/:id
 DELETE /notes/:id
 
 
+## to do
+
+add tracking:
+
+1. User Interactions:
+
+Track when a user creates a new note.
+Track when a user reads an existing note.
+Track when a user updates a note.
+Track when a user deletes a note.
+
+2. Note Statistics:
+Keep count of how many times each note is viewed, edited, or deleted.
+measure how long does it take for each action + time in app
